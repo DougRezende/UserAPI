@@ -15,10 +15,21 @@ builder.Services.AddIdentity<Usuario, IdentityRole>()
 
 builder.Services.AddControllers();
 
-builder.Services.AddAuthentication();
-builder.Services.AddAuthorization();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        policy => policy.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+});
 
 var app = builder.Build();
+
+app.UseCors("AllowAll");
+
+
+builder.Services.AddAuthentication();
+builder.Services.AddAuthorization();
 
 app.UseHttpsRedirection();
 app.UseAuthentication();

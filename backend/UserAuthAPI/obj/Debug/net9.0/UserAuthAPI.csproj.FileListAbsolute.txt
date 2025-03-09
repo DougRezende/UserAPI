@@ -112,6 +112,7 @@ D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\UserAuthAPI.Assemb
 D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\UserAuthAPI.csproj.CoreCompileInputs.cache
 D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\UserAuthAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\UserAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\UserAuthAPI.sourcelink.json
 D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\scopedcss\bundle\UserAuthAPI.styles.css
 D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\staticwebassets.build.json
 D:\Programaçao\user_api\backend\UserAuthAPI\obj\Debug\net9.0\staticwebassets.development.json
