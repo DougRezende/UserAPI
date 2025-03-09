@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthAPI", "UserAuthAPI\UserAuthAPI.csproj", "{F24EF40B-A73D-89FC-7E5D-59801BEDE7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24EF40B-A73D-89FC-7E5D-59801BEDE7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24EF40B-A73D-89FC-7E5D-59801BEDE7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24EF40B-A73D-89FC-7E5D-59801BEDE7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24EF40B-A73D-89FC-7E5D-59801BEDE7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DAA68C6-15FA-4817-85EE-F44036D100FF}
+	EndGlobalSection
+EndGlobal
